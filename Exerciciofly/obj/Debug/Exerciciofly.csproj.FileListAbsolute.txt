@@ -1,0 +1,10 @@
+C:\c#\c#\Exerciciofly\Exerciciofly\bin\Debug\Exerciciofly.exe.config
+C:\c#\c#\Exerciciofly\Exerciciofly\bin\Debug\Exerciciofly.exe
+C:\c#\c#\Exerciciofly\Exerciciofly\bin\Debug\Exerciciofly.pdb
+C:\c#\c#\Exerciciofly\Exerciciofly\bin\Debug\Newtonsoft.Json.dll
+C:\c#\c#\Exerciciofly\Exerciciofly\bin\Debug\Newtonsoft.Json.xml
+C:\c#\c#\Exerciciofly\Exerciciofly\obj\Debug\Exerciciofly.csprojAssemblyReference.cache
+C:\c#\c#\Exerciciofly\Exerciciofly\obj\Debug\Exerciciofly.csproj.CoreCompileInputs.cache
+C:\c#\c#\Exerciciofly\Exerciciofly\obj\Debug\Exerciciofly.csproj.CopyComplete
+C:\c#\c#\Exerciciofly\Exerciciofly\obj\Debug\Exerciciofly.exe
+C:\c#\c#\Exerciciofly\Exerciciofly\obj\Debug\Exerciciofly.pdb
